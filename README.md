@@ -1,2 +1,2 @@
-https://CryTechno.github.io/rsschool-cv/cv
-https://CryTechno.github.io/rsschool-cv
+# https://CryTechno.github.io/rsschool-cv/cv
+# https://CryTechno.github.io/rsschool-cv
